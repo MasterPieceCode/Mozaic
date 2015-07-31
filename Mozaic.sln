@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mozaic", "Mozaic\Mozaic.csproj", "{8BE3655F-A2B5-47C6-A8CC-60C7710432C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processing", "Processing\Processing.csproj", "{6D61F839-28F8-4010-A753-DE2B39DD1B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colormine", "ColorMine\colormine.csproj", "{AE7DC769-4A71-49BA-BDD7-281F3E70B02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE3655F-A2B5-47C6-A8CC-60C7710432C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE3655F-A2B5-47C6-A8CC-60C7710432C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE3655F-A2B5-47C6-A8CC-60C7710432C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE3655F-A2B5-47C6-A8CC-60C7710432C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D61F839-28F8-4010-A753-DE2B39DD1B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D61F839-28F8-4010-A753-DE2B39DD1B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D61F839-28F8-4010-A753-DE2B39DD1B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D61F839-28F8-4010-A753-DE2B39DD1B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7DC769-4A71-49BA-BDD7-281F3E70B02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7DC769-4A71-49BA-BDD7-281F3E70B02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7DC769-4A71-49BA-BDD7-281F3E70B02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7DC769-4A71-49BA-BDD7-281F3E70B02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
