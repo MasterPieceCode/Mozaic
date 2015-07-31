@@ -35,7 +35,7 @@ namespace Mozaic
             //var bitmapImage = new BitmapImage(new Uri(@"C:\Sources\Spikes\Mozaic\Mozaic\bin\Debug\Penguins.jpg"));
             // ImageCanvas.Source = bitmapImage;
 
-            MainPanel.Child = BuildGrid(new ImageConverter(@"C:\Sources\Spikes\Mozaic\Mozaic\bin\Debug\Penguins.jpg", 5, 2000, 1500).Convert());
+            MainPanel.Child = BuildGrid(new ImageConverter(@"C:\Sources\Spikes\Mozaic\Mozaic\bin\Debug\nature.jpg", 10, 2000, 1000).Convert());
             MainPanel.MouseWheel += MainPanel_MouseWheel;
 
             /*
